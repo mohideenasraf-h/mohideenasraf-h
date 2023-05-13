@@ -1,0 +1,69 @@
+{
+  "name": "ContactApp",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "build:ssr": "ng run ContactApp:server:dev",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "14.3.0",
+    "@angular/cdk": "^13.3.2",
+    "@angular/common": "14.3.0",
+    "@angular/compiler": "14.3.0",
+    "@angular/core": "14.3.0",
+    "@angular/forms": "14.3.0",
+    "@angular/platform-browser": "14.3.0",
+    "@angular/platform-browser-dynamic": "14.3.0",
+    "@angular/platform-server": "^14.3.0",
+    "@angular/router": "14.3.0",
+    "@googlemaps/google-maps-services-js": "^3.3.30",
+    "@microsoft/signalr": "^6.0.2",
+    "@nguniversal/module-map-ngfactory-loader": "^8.1.1",
+    "bootstrap": "^5.2.3",
+    "core-js": "^3.29.1",
+    "jquery": "^3.5.1",
+    "line-awesome": "^1.3.0",
+    "primeicons": "^5.0.0",
+    "primeng": "^13.1.0",
+    "protractor": "~7.0.0",
+    "rxjs": "^6.6.3",
+    "ts-node": "~8.4.1",
+    "tslib": "^2.0.0",
+    "tslint": "~6.1.3",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.2.11",
+    "@angular/cli": "^14.2.11",
+    "@angular/compiler-cli": "^14.3.0",
+    "@angular/language-service": "^14.3.0",
+    "@types/jasmine": "~3.6.0",
+    "@types/jasminewd2": "~2.0.8",
+    "@types/node": "^12.11.1",
+    "codelyzer": "^6.0.0",
+    "ini": "^1.3.7",
+    "jasmine-core": "~3.6.0",
+    "jasmine-spec-reporter": "~5.0.0",
+    "karma": "~6.3.11",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage-istanbul-reporter": "~3.0.2",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "typescript": "4.8.4"
+  },
+  "optionalDependencies": {
+    "protractor": "~5.4.2",
+    "ts-node": "~8.4.1",
+    "tslint": "~5.20.0"
+  },
+  "resolutions": {
+    "url-parse": ">=1.5.0",
+    "lodash": ">=4.17.21"
+  }
+}

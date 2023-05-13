@@ -1,0 +1,6 @@
+2023-05-14T00:49:18.0576019+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2023-05-14T00:49:18.0656296+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2023-05-14T00:49:18.0682791+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-05-14T00:49:18.0706015+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-05-14T00:49:18.0728708+05:30  [INF] Content root path: "E:\Interview_Projects\Knila_IT_Solutions_(I)_pvt.ltd\Project\ContactApp" (b5d60022)
+2023-05-14T00:49:59.7025523+05:30 0HMQJSRPC4CHK:00000015 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)

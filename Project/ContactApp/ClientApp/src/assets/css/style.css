@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "ProximaNovaReg";
+  src: url(../fonts/proximanova-reg.woff2) format("woff2"),
+    url(../fonts/proximanova-reg.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ProximaNovaSB";
+  src: url(../fonts/proximanova-sb.woff2) format("woff2"),
+    url(../fonts/proximanova-sb.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.page-loader{position:fixed;}
+.page-loader{z-index:1999;}
+.page-loader{top:0;}
+.page-loader{right:0;}
+.page-loader{bottom:0;}
+.page-loader{left:0;}
+.page-loader{display:flex;justify-content:center;align-items:center;}
+.page-loader{width:100vw;}
+.page-loader{height:100vh;}
+.custom-table thead th span{width:100% !important;}
+
+.custom-table thead th span {
+  position: relative !important;
+}
+
+.custom-table thead th span p-sorticon {
+  position: absolute !important;
+}
+.custom-table thead th span p-sorticon {
+  right: 0 !important;
+}
+
+.red {color: red;}
+.page-loader{background-color:rgba(255,255,255,.45);}
